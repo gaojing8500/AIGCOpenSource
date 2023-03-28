@@ -11,6 +11,7 @@
 | 智能文本分析 | 文档分析工具 | https://zhuanlan.zhihu.com/p/613928848 |  |
 | 翻译工具 | 语言翻译 | https://github.com/yetone/openai-translator。 | 完全基于OpenAI API接口来集成开发，需要key和翻墙 |
 | 代码编辑器 | 代码辅助工具 | https://github.com/getcursor/cursor   [GitHub Copilot X](https://github.com/features/preview/copilot-x) | cursor开源后不再支持GPT4，微软的CopilotX全面支持GPT4 |
+| axiv论文分析工具 | 文本分析工具 | [chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) | 可以在此基础上做一个论文分析小助手，每天查看最新论文并且分析论文主要思想 |
 
 ### LLM模型测评
 
