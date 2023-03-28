@@ -141,19 +141,19 @@ EleutherAI，[lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation
 
 ### **[ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)**
 
-![ChatGPT shortcut](../asset/ChatGPT shortcut.png)
+![ChatGPT shortcut](asset/ChatGPT shortcut.png)
 
 ### [PromptBase](https://promptbase.com/)
 
 LLM模型的prompt template marketplace 可以出售promt 策略
 
-![promptbase](../asset/promptbase.png)
+![promptbase](asset/promptbase.png)
 
 ### [dair-ai](https://github.com/dair-ai)/**[Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)**
 
 详细的提供了prompt在LLM模型上面的价值，可以详细了解
 
-![Untitled](../asset\Untitled.png)
+![Untitled](asset/Untitled.png)
 
 ### [PromptPerfect - Prompt](https://promptperfect.jina.ai/)
 
@@ -165,13 +165,13 @@ LLM模型的prompt template marketplace 可以出售promt 策略
 - 10 秒内出结果：在 10 秒或更短时间内获得优化的提示词。
 - 多语言提示词：您的提示词不必再是英文。您可以优化任何语言的提示词。
 - API 和数据访问：API 访问我们的 AI 引擎，将您的数据导出为通用格式，允许您将我们的 AI 集成到您自己的应用程序中。
-- ![prompfect](../asset/prompfect.png)
+- ![prompfect](asset/prompfect.png)
 
 ### [bigscience-workshop](https://github.com/bigscience-workshop)/**[promptsource](https://github.com/bigscience-workshop/promptsource)**
 
 对个NLP相关子任务续写prompt
 
-![prompsoruce](../asset/prompsoruce.png)
+![prompsoruce](asset/prompsoruce.png)
 
 ### **[ChatIE](https://github.com/cocacola-lab/ChatIE)**
 
