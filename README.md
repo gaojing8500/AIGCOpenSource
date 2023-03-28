@@ -67,7 +67,7 @@ EleutherAI，[lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation
 
 主要流程如下所示
 
-![trl](../asset/trl.png)
+![trl](AIGCOpenSource/asset/trl.png)
 
 **TRL**，[Deep reinforcement learning from human preferences ](https://arxiv.org/abs/1706.03741) ，[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)  [ChatGPT: Optimizing Language Models for Dialogue (OpenAI 2022)](https://openai.casa/blog/chatgpt/)，[trl](https://github.com/lvwerra/trl)，[transformers_tasks](https://github.com/HarderThenHarder/transformers_tasks)  主要实现RLHF过程，后续在这块仔细梳理出来
 
