@@ -142,7 +142,7 @@ EleutherAI，[lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation
 
 ### **[ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)**
 
-![ChatGPT shortcut](asset/ChatGPT shortcut.png)
+![shortcut](asset/shortcut.png)
 
 ### [PromptBase](https://promptbase.com/)
 
